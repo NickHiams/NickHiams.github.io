@@ -16,17 +16,17 @@
             "name": "oleum.net",
            
             "city": "Northamptonshire",
-            "country": "England",
+            "country": "England"
                    },
         "about":  {
             "me": "Nick Hiams",
             "server": "Block producer Bare metal Intel 4 Core 8Gb RAM 300/300 Fibre Relays-1 anonymous 1 EU 1 USA",
             "company": "oleum.net"
-                  },
+                  }
         
            },
     "my-pool-ids":                 {
-        "0": "4013a7d086bec89ec1b2ba4e43633012d02e66c54278c229b324a982",
+        "0": "4013a7d086bec89ec1b2ba4e43633012d02e66c54278c229b324a982"
        
                                    },
     "when-satured-then-recommend": {
@@ -35,5 +35,5 @@
                                    },
     "telegram-admin-handle":       {
         "0": "OlNick"
-                                   }, 
+                                   }
 }
